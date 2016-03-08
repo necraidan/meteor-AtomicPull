@@ -1,3 +1,0 @@
-[submodule "AtomicPull"]
-	path = vendor
-	url = git@github.com:necraidan/AtomicPull.git
