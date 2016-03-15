@@ -1,6 +1,6 @@
 Package.describe({
   name: 'necraidan:atomicpull-grid',
-  version: '0.1.0',
+  version: '0.1.2',
   // Brief, one-line summary of the package.
   summary: 'An amazing grid system for your HTML !',
   // URL to the Git repository containing the source code for this package.
